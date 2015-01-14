@@ -1,0 +1,27 @@
+{
+  "name": "bower-utils",
+  "version": "0.9.0",
+  "description": "Bower utils",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "q":"*",
+    "mout": "*",
+	"nopt": "~3.0.0",
+	"which": "~1.0.5",
+	"p-throttler": "0.1.0",
+	"fstream": "~1.0.2",
+    "fstream-ignore": "~1.0.1",
+	"graceful-fs": "~3.0.1",
+	"mkdirp": "0.5.0",
+	"retry": "0.6.0",
+	"request": "~2.42.0",
+    "request-progress": "0.3.0",
+	"decompress-zip": "0.0.8",
+	"tar-fs": "0.5.2",
+	"junk": "~1.0.0",
+	"rimraf": "~2.2.0",
+	"is-root": "~1.0.0",
+	"semver": "~2.3.0",
+	"handlebars": "~2.0.0"
+  }
+}
