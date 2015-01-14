@@ -4,7 +4,6 @@
   "description": "Bower utils",
   "main": "./lib/index.js",
   "dependencies": {
-    "q":"*",
     "mout": "*",
 	"nopt": "~3.0.0",
 	"which": "~1.0.5",
@@ -23,5 +22,8 @@
 	"is-root": "~1.0.0",
 	"semver": "~2.3.0",
 	"handlebars": "~2.0.0"
+  },
+  "peerDependencies": {
+    "q":"*"
   }
 }
